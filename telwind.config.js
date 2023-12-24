@@ -5,6 +5,7 @@ tailwind.config = {
           clifford: '#da373d',
           headerbg: '#282828',
           red: '#F40404',
+          linear: 'rgba(0, 0, 0, 0.60)',
         },
         maxWidth: {
           'container': '1144px',
